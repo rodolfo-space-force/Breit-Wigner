@@ -1,7 +1,7 @@
 # Breit-Wigner
 Esta equação é usada para modelar como nêutrons interagem com núcleos no combustível nuclear
 
-# 📊 Tabela Convoluída da Integralpsi(x, t)
+# 📊 Tabela Convoluída da Integral  psi(x, t)
 
 Este projeto fornece uma implementação em Python da integral convoluída associada à fórmula de Breit–Wigner de ressonância nuclear, convoluída com uma distribuição de velocidades de espalhadores térmicos de Maxwell. A função ( psi(x, t) representa a base para o cálculo da **seção de choque efetiva**, essencial na modelagem de reatores nucleares térmicos.
 
