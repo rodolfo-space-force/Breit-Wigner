@@ -1,3 +1,6 @@
+#Rodolfo Milhomem
+#https://github.com/rodolfo-space-force/
+
 import numpy as np
 import pandas as pd
 from scipy.integrate import quad
@@ -72,3 +75,7 @@ def consulta_interativa(df):
 if __name__ == "__main__":
     tabela = gerar_tabela_psi()
     consulta_interativa(tabela)
+
+# Licença
+#Este projeto está licenciado sob a **Licença MIT**.  
+#Você pode usar, modificar e redistribuir este código livremente, **desde que mencione o autor original**.
